@@ -1,7 +1,10 @@
 # Dummy
 
+<div align="center">
+  <img src="![Simulator Screenshot - iPhone 15 Pro - 2024-03-08 at 12 21 54](https://github.com/MuhammadSyulhanA/TechnicalTest-BNI/assets/48244126/710195e8-2c8b-48b4-9ae3-4a205894f3e5)" width="400" alt="Gambar Kiri">
+  <img src="![Simulator Screenshot - iPhone 15 Pro - 2024-03-08 at 12 21 54](https://github.com/MuhammadSyulhanA/TechnicalTest-BNI/assets/48244126/710195e8-2c8b-48b4-9ae3-4a205894f3e5)" width="400" alt="Gambar Kanan">
+</div>
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-08 at 12 21 54](https://github.com/MuhammadSyulhanA/TechnicalTest-BNI/assets/48244126/710195e8-2c8b-48b4-9ae3-4a205894f3e5)
 
 Dummy is a content generation toolkit designed to make the development, testing and presentation of web prototypes less time consuming and more realistic. It does so by making it easy to populate static HTML with dynamic content, and by randomizing elements within a layout on subsequent loads of a document, in a way, simulating connectivity to a live database.
 
