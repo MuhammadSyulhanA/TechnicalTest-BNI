@@ -1,0 +1,6 @@
+framework module Pods_Case4_MobileAppPushNotif {
+  umbrella header "Pods-Case4-MobileAppPushNotif-umbrella.h"
+
+  export *
+  module * { export * }
+}
