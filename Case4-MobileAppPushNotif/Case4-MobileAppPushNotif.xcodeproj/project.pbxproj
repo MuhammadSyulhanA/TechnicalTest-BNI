@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		69B376CD2B9AD67200B7C655 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B376CC2B9AD67200B7C655 /* DetailViewController.swift */; };
 		69D9290B2B9AB52700F8AD1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D9290A2B9AB52700F8AD1E /* AppDelegate.swift */; };
 		69D9290D2B9AB52700F8AD1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D9290C2B9AB52700F8AD1E /* SceneDelegate.swift */; };
 		69D9290F2B9AB52700F8AD1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D9290E2B9AB52700F8AD1E /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		4ED744296A47ADA149A3A1B0 /* Pods-Case4-MobileAppPushNotif.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Case4-MobileAppPushNotif.debug.xcconfig"; path = "Target Support Files/Pods-Case4-MobileAppPushNotif/Pods-Case4-MobileAppPushNotif.debug.xcconfig"; sourceTree = "<group>"; };
+		69B376CC2B9AD67200B7C655 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		69D929072B9AB52700F8AD1E /* Case4-MobileAppPushNotif.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Case4-MobileAppPushNotif.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		69D9290A2B9AB52700F8AD1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		69D9290C2B9AB52700F8AD1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				69D929132B9AB52900F8AD1E /* Assets.xcassets */,
 				69D929152B9AB52900F8AD1E /* LaunchScreen.storyboard */,
 				69D929182B9AB52900F8AD1E /* Info.plist */,
+				69B376CC2B9AD67200B7C655 /* DetailViewController.swift */,
 			);
 			path = "Case4-MobileAppPushNotif";
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				69D9290F2B9AB52700F8AD1E /* ViewController.swift in Sources */,
 				69D9290B2B9AB52700F8AD1E /* AppDelegate.swift in Sources */,
 				69D9290D2B9AB52700F8AD1E /* SceneDelegate.swift in Sources */,
+				69B376CD2B9AD67200B7C655 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

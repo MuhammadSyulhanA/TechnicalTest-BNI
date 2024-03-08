@@ -1,5 +1,8 @@
 # Dummy
 
+
+![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-03-08 at 12.21.54.png…]()
+
 Dummy is a content generation toolkit designed to make the development, testing and presentation of web prototypes less time consuming and more realistic. It does so by making it easy to populate static HTML with dynamic content, and by randomizing elements within a layout on subsequent loads of a document, in a way, simulating connectivity to a live database.
 
 Originally conceived as a tool for helping to simulate the high volume, rapidly changing content characteristics of online newspapers and magazines, it's generalized enough to benefit the early stage front-end development of any website or application with content that frequently changes in length, form or nature.

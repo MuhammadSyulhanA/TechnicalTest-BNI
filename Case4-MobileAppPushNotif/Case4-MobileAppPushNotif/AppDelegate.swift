@@ -142,7 +142,7 @@ extension AppDelegate: UNUserNotificationCenterDelegate {
         
         if let title = title, let transactionCode = transactionCode {
             // Navigate to detail page with title and transaction code
-            let detailViewController = ViewController()
+            let detailViewController = DetailViewController()
             detailViewController.titleText = title
             detailViewController.transactionCode = transactionCode
             
